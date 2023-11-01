@@ -12,7 +12,7 @@ inputs:
     description: The branch to store the svg assets in
     required: true
   asset-repo-token:
-    descriptioin: Github token to access the asset repo when pulling and pushing
+    description: Github token to access the asset repo when pulling and pushing
     required: true
 runs:
   using: composite
